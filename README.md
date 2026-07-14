@@ -1,68 +1,143 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Trollycat</h1>
-<!-- <h4 align="center">UIET</h4> -->
+
+# Hi <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" width="35">, I'm Trollycat
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=14+Year+Old+Developer;C%2B%2B+Programmer;Game+Development;Operating+Systems;Desktop+Applications;Florida">
+</p>
+
 </div>
 
-<br/>
+---
+
+## 👋 About Me
+
+```text
+📍 Based in: Florida
+
+💻 Learning C++ programming language
+🌟 Main language: C++
+🚩 Interested in Game Development, Operating Systems, and Desktop Applications
+⚡ Fun fact: I'm 14 years old trying to become a software engineer in the future
+🤝 Contributors are welcome to all of my repositories!
+👯 Looking to work on some C++ projects
+```
+
+---
+
+# Languages
+
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;uietian;India&center=true&width=380&height=45">
-		<img src="https://herokuapp.com">
-	</a>
+
+<a href="https://en.cppreference.com/w/c">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+</a>
+
+<a href="https://isocpp.org/">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+</a>
+
 </p>
 
-<hr>
+---
 
-<pre>
-💻 Learning C++ programing language
-🌟 Main languages: C++
-🚩 Interested in Game development, Operating systems, and desktop applications
-⚡ Fun fact I'm 14 years old trying to be a software engineer in the future
-🤝 I’m looking for help with Contributers are welcome to all of my repositories!
-👯 I’m looking to work on Some c++ projects
-</pre>
-<hr>
+# Libraries
 
-
-
-<h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Cpp%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
+
+<a href="https://www.raylib.com/">
+<img src="https://img.shields.io/badge/raylib-111111?style=for-the-badge&logo=raylib&logoColor=white">
+</a>
+
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-<!--   <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
-  </a> -->
-<!--   <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
-      alt="virtualbox"/>
-  </a>
+---
+
+# Version Control
+
+<p align="center">
+
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
 
+---
 
-### 🛠 &nbsp;Tech Stack
+# IDEs & Tools
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+<p align="center">
+
+<a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</a>
+
+<a href="https://www.jetbrains.com/clion/">
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
+</a>
+
+<a href="https://learn.microsoft.com/windows/wsl/">
+<img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=FCC624">
+</a>
+
+</p>
+
+---
+
+# Operating Systems
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+</p>
+
+---
+
+# Tech Stack
+
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+![Raylib](https://img.shields.io/badge/-Raylib-05122A?style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
+![CLion](https://img.shields.io/badge/-CLion-05122A?style=flat&logo=clion)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+![WSL](https://img.shields.io/badge/-WSL-05122A?style=flat&logo=linux)&nbsp;
+![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-05122A?style=flat&logo=stackoverflow)&nbsp;
+![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube)&nbsp;
 
+---
 
+<div align="center">
+<a href="https://github.com/">
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg">
+</a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav9582&" alt="sourav9582" /></p>
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CTrollycatT112&show_icons=true&theme=tokyonight">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CTrollycatT112&theme=tokyonight">
+
+</p>
