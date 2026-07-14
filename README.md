@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" width="35">, I'm Trollycat
+# Hi 👋, I'm Trollycat
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
@@ -123,9 +123,7 @@
 ---
 
 <div align="center">
-<a href="https://github.com/">
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg">
-</a>
+  <img src="https://raw.githubusercontent.com/CTrollycatT112/CTrollycatT112/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
 ---
@@ -138,6 +136,6 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CTrollycatT112&theme=tokyonight">
+<img src="https://streak-stats.demolab.com?user=CTrollycatT112&theme=tokyonight">
 
 </p>
