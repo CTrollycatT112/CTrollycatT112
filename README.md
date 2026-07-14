@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Trollycat</h1>
+<h1 align="center">Hi 👋, I'm Trollycat</h1>
 <!-- <h4 align="center">UIET</h4> -->
 </div>
 
@@ -18,7 +18,7 @@
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;uietian;India&center=true&width=380&height=45">
+		<img src="https://herokuapp.com">
 	</a>
 </p>
 
