@@ -7,25 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=14+Year+Old+Developer;C%2B%2B+Programmer;Game+Development;Operating+Systems;Desktop+Applications;Florida">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=C%2B%2B+Programmer;Game+Development;Operating+Systems;Desktop+Applications;">
 </p>
 
 </div>
-
----
-
-## 👋 About Me
-
-```text
-📍 Based in: Florida
-
-💻 Learning C++ programming language
-🌟 Main language: C++
-🚩 Interested in Game Development, Operating Systems, and Desktop Applications
-⚡ Fun fact: I'm 14 years old trying to become a software engineer in the future
-🤝 Contributors are welcome to all of my repositories!
-👯 Looking to work on some C++ projects
-```
 
 ---
 
