@@ -108,7 +108,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CTrollycatT112/CTrollycatT112/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Trollycat/Trollycat/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
 ---
@@ -117,10 +117,10 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CTrollycatT112&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Trollycat&show_icons=true&theme=tokyonight">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=CTrollycatT112&theme=tokyonight">
+<img src="https://streak-stats.demolab.com?user=Trollycat&theme=tokyonight">
 
 </p>
